@@ -3,7 +3,7 @@ title: "Jie Xu"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: jiexu.png
   links:
     - icon: twitter
       text: twitter
